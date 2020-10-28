@@ -1,8 +1,8 @@
 import math
 
-a = 1
-b = 8
-c = 7
+a = float(input("a kat sayısı :"))
+b = float(input("b kat sayısı :"))
+c = float(input("c kat sayısı :"))
 
 if a == 0:
     print("Bu bir İkinci Dereceden denklem değildir")

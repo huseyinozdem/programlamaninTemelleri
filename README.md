@@ -1,0 +1,2 @@
+# programlamaninTemelleri
+Hasan Özalp

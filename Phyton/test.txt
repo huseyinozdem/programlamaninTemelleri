@@ -1,0 +1,61 @@
+    AEBCEEEDCEAADECCABDACABDCDDDADDADAAAAAEB
+  1.  B  EaeCEAAD CCbBecCABDCDDeAcDADbAdcAEc ** Doğru Sayısı: 24 Yanlış Sayısı: 11 Boş Sayısı:  5 Puan: 60.00
+  2.eEBecE  CEbdDE eABcACA DCcDD DDAbe bAAEB ** Doğru Sayısı: 23 Yanlış Sayısı: 11 Boş Sayısı:  6 Puan: 57.50
+  3.eE  a EDb AAcbCCAaDACABaCD D DD aAA  AEB ** Doğru Sayısı: 23 Yanlış Sayısı:  8 Boş Sayısı:  9 Puan: 57.50
+  4.c BC bED EAADECaAaa bbBDeD DbeDADAAAbcEB ** Doğru Sayısı: 23 Yanlış Sayısı: 12 Boş Sayısı:  5 Puan: 57.50
+  5.bbBC  dDC A DECCAdDACABbCc DAD A AdcdAaa ** Doğru Sayısı: 22 Yanlış Sayısı: 11 Boş Sayısı:  7 Puan: 55.00
+  6. EBadE  C ccbaaCb DACABDaDbD DDADbeAAAEB ** Doğru Sayısı: 22 Yanlış Sayısı: 12 Boş Sayısı:  6 Puan: 55.00
+  7. dBCEEEDeE daE aABcAC BDbDDDAcDeD AA  a  ** Doğru Sayısı: 22 Yanlış Sayısı: 10 Boş Sayısı:  8 Puan: 55.00
+  8.cE bE EDC bAc CaAdDA dB  cDDADDAD AA  EB ** Doğru Sayısı: 22 Yanlış Sayısı:  8 Boş Sayısı: 10 Puan: 55.00
+  9.AdBCEc DCE A bCaABa CABe cbbAcb bAAAAAEB ** Doğru Sayısı: 22 Yanlış Sayısı: 12 Boş Sayısı:  6 Puan: 55.00
+ 10. b dccEDC deDEC ABDA  daCDeDADDdeAAAAAaB ** Doğru Sayısı: 22 Yanlış Sayısı: 12 Boş Sayısı:  6 Puan: 55.00
+ 11.AEBCEb D dAAe baAaDAC BDeDDb Db D ddAAEe ** Doğru Sayısı: 21 Yanlış Sayısı: 12 Boş Sayısı:  7 Puan: 52.50
+ 12.  cC E DC e DEC ABcACAcDCDDDceDA A d d B ** Doğru Sayısı: 21 Yanlış Sayısı:  8 Boş Sayısı: 11 Puan: 52.50
+ 13.cE  EEcD EAADdCCdeD CA DdcDcADDAcddA Adc ** Doğru Sayısı: 21 Yanlış Sayısı: 13 Boş Sayısı:  6 Puan: 52.50
+ 14.eE CEEEDbc cc CCAcDACc c Db AcDAD AAceEa ** Doğru Sayısı: 20 Yanlış Sayısı: 13 Boş Sayısı:  7 Puan: 50.00
+ 15. EB EEcaCE Aade AdD CABcCeDceDDAD d AcEa ** Doğru Sayısı: 20 Yanlış Sayısı: 13 Boş Sayısı:  7 Puan: 50.00
+ 16.AEeCEcED aeADa eb Dc ABD DDcAaaA  AAAAcc ** Doğru Sayısı: 20 Yanlış Sayısı: 13 Boş Sayısı:  7 Puan: 50.00
+ 17.AE dcEEcC bbb CeAeDb A DC eDAD cD AeAAEB ** Doğru Sayısı: 20 Yanlış Sayısı: 12 Boş Sayısı:  8 Puan: 50.00
+ 18. EabE daC AAD C ABbbCABeCD bAD A bAAdd B ** Doğru Sayısı: 20 Yanlış Sayısı: 11 Boş Sayısı:  9 Puan: 50.00
+ 19.AcBCEcbbCb A ECCA Dc e DCDDbA D DAA    e ** Doğru Sayısı: 20 Yanlış Sayısı:  9 Boş Sayısı: 11 Puan: 50.00
+ 20. Ecd EceeEAAaECeABeedABeb aDAeDbcAAAAAcB ** Doğru Sayısı: 20 Yanlış Sayısı: 17 Boş Sayısı:  3 Puan: 50.00
+ 21.AEBCEEE e A Dabb cDAed eCD Dea Ac AAAA   ** Doğru Sayısı: 19 Yanlış Sayısı: 11 Boş Sayısı: 10 Puan: 47.50
+ 22. ccCEc  Cb ADbbdAa cCeeDbDDDADDcDAecAbEB ** Doğru Sayısı: 19 Yanlış Sayısı: 16 Boş Sayısı:  5 Puan: 47.50
+ 23.AEBaac DCEAbD C eBcAC eDCDDDAb cDdce   e ** Doğru Sayısı: 19 Yanlış Sayısı: 13 Boş Sayısı:  8 Puan: 47.50
+ 24.cbBCEcaD EdA EaCe cACAB dc Dcae DAAbeAEB ** Doğru Sayısı: 19 Yanlış Sayısı: 15 Boş Sayısı:  6 Puan: 47.50
+ 25.AdddEEE C be  e eaeAC BDCba A DdDAA A EB ** Doğru Sayısı: 18 Yanlış Sayısı: 12 Boş Sayısı: 10 Puan: 45.00
+ 26.dcaCEEaDdbdcb CC aDACbBDaD DdDD  AcA  Ea ** Doğru Sayısı: 18 Yanlış Sayısı: 15 Boş Sayısı:  7 Puan: 45.00
+ 27.e BdEEEDCdbAedCCA D Ce  CaDDdeaADbcceA   ** Doğru Sayısı: 18 Yanlış Sayısı: 15 Boş Sayısı:  7 Puan: 45.00
+ 28.A  CEddbdEAA  CdbBD aAdea DcAD ADeAAA d  ** Doğru Sayısı: 18 Yanlış Sayısı: 13 Boş Sayısı:  9 Puan: 45.00
+ 29.AEB a EDdceA aaaABDACc Dde   DDAD  bd EB ** Doğru Sayısı: 18 Yanlış Sayısı: 12 Boş Sayısı: 10 Puan: 45.00
+ 30.bbadEddcdd ADEC ABDd d b DD ADDA A ebAEB ** Doğru Sayısı: 18 Yanlış Sayısı: 14 Boş Sayısı:  8 Puan: 45.00
+ 31.d B EEEbCEdA bebAB ACAa C c baDADAAd e a ** Doğru Sayısı: 18 Yanlış Sayısı: 13 Boş Sayısı:  9 Puan: 45.00
+ 32.AEBbdEEc EAAacCeABD ad   DaDdaDADcb Abcc ** Doğru Sayısı: 18 Yanlış Sayısı: 16 Boş Sayısı:  6 Puan: 45.00
+ 33.A  CE   e A  EdbbBD CAB a DaADDAD A  cEc ** Doğru Sayısı: 18 Yanlış Sayısı:  8 Boş Sayısı: 14 Puan: 45.00
+ 34.cc dEEE eEeAcE  bBcA AdD DDc eDA e b AEB ** Doğru Sayısı: 17 Yanlış Sayısı: 13 Boş Sayısı: 10 Puan: 42.50
+ 35.A d EcEDCEcdD dC BaACe  CD  bb cDAdAAe c ** Doğru Sayısı: 17 Yanlış Sayısı: 13 Boş Sayısı: 10 Puan: 42.50
+ 36.AEdC EE CEeAD eCA  Ab  caecbADDAbddbcAa  ** Doğru Sayısı: 17 Yanlış Sayısı: 15 Boş Sayısı:  8 Puan: 42.50
+ 37.e cCEc  C  AD CaAB ACdBDdD  AD e   AbdE  ** Doğru Sayısı: 17 Yanlış Sayısı:  9 Boş Sayısı: 14 Puan: 42.50
+ 38. bB EEd  aeAeEe b Dcd BDCcDDAecADcb AAcB ** Doğru Sayısı: 17 Yanlış Sayısı: 15 Boş Sayısı:  8 Puan: 42.50
+ 39.ebdCdEE ebdADcdCe Dc   cCDD ADbADd d AEB ** Doğru Sayısı: 17 Yanlış Sayısı: 15 Boş Sayısı:  8 Puan: 42.50
+ 40.cEB Ec DaEeb  e ABaA AB   DDc DA Ad AeEd ** Doğru Sayısı: 17 Yanlış Sayısı: 11 Boş Sayısı: 12 Puan: 42.50
+ 41.ecBC dacCEbAD ea d ACAdebD DA  eDAAb AEc ** Doğru Sayısı: 17 Yanlış Sayısı: 15 Boş Sayısı:  8 Puan: 42.50
+ 42.eE bddE Cb AaECeAecc  BcbDD ADc bAbAcAEB ** Doğru Sayısı: 17 Yanlış Sayısı: 16 Boş Sayısı:  7 Puan: 42.50
+ 43.cEBaEEED  eAed  A D  A DaDDc  D bd A AdB ** Doğru Sayısı: 17 Yanlış Sayısı: 10 Boş Sayısı: 13 Puan: 42.50
+ 44.A  CEaEDCdA DEa ABD  d bba D DD a AbbeaB ** Doğru Sayısı: 17 Yanlış Sayısı: 12 Boş Sayısı: 11 Puan: 42.50
+ 45.  BCEadbdEA DEedA DA A ba D AbadDA c cE  ** Doğru Sayısı: 16 Yanlış Sayısı: 13 Boş Sayısı: 11 Puan: 40.00
+ 46.AbaCdEEebEe D e cBae e Dd  bADD aAAbAbEB ** Doğru Sayısı: 16 Yanlış Sayısı: 16 Boş Sayısı:  8 Puan: 40.00
+ 47.ea eEdEDCEA DE bcaD  ceD bcDdaDAadA A Ed ** Doğru Sayısı: 16 Yanlış Sayısı: 16 Boş Sayısı:  8 Puan: 40.00
+ 48.AE CcE   dAcDaCe ebA debC  c DbA cAAA EB ** Doğru Sayısı: 16 Yanlış Sayısı: 13 Boş Sayısı: 11 Puan: 40.00
+ 49.eEeaEEE  EeA    e c C BD D b DDcDcA ddcB ** Doğru Sayısı: 15 Yanlış Sayısı: 12 Boş Sayısı: 13 Puan: 37.50
+ 50.d BCcEEe Ec  Ed ABbeCAdbCD D D ee  Adbb  ** Doğru Sayısı: 15 Yanlış Sayısı: 14 Boş Sayısı: 11 Puan: 37.50
+ 51.cacdEdED   dD CbAB AacceCDe b D aAAA bE  ** Doğru Sayısı: 15 Yanlış Sayısı: 15 Boş Sayısı: 10 Puan: 37.50
+ 52.A Bad cebEcAa   eBb CABeC aD   AcA AAA c ** Doğru Sayısı: 15 Yanlış Sayısı: 13 Boş Sayısı: 12 Puan: 37.50
+ 53.Ab   EE  E daE dbBDACA e aD  DDcD ecAeac ** Doğru Sayısı: 15 Yanlış Sayısı: 13 Boş Sayısı: 12 Puan: 37.50
+ 54. EBCa daC dADaeC  DdeA c cDedb ADbAceA c ** Doğru Sayısı: 14 Yanlış Sayısı: 17 Boş Sayısı:  9 Puan: 35.00
+ 55.bEe b EDdaAAbcC  BD  dB dbbecDDdb b eAEB ** Doğru Sayısı: 14 Yanlış Sayısı: 17 Boş Sayısı:  9 Puan: 35.00
+ 56.eE dEE DaE ADECaeBed  ae c D DbeDc edbbe ** Doğru Sayısı: 13 Yanlış Sayısı: 18 Boş Sayısı:  9 Puan: 32.50
+ 57. dB Eca    cDdeadBce AB CDe ADeAcAdb A e ** Doğru Sayısı: 13 Yanlış Sayısı: 16 Boş Sayısı: 11 Puan: 32.50
+ 58. EB b a eEAeaE Cca bCeBDacD e bcD c dAcB ** Doğru Sayısı: 13 Yanlış Sayısı: 17 Boş Sayısı: 10 Puan: 32.50
+ 59.edeCEcdD  be d bceaAC BbCD adDDADc de  d ** Doğru Sayısı: 12 Yanlış Sayısı: 19 Boş Sayısı:  9 Puan: 30.00
+ 60.cda cc D EAeD   c aAa  b  cedD AaAA AAb  ** Doğru Sayısı: 11 Yanlış Sayısı: 15 Boş Sayısı: 14 Puan: 27.50
